@@ -1,4 +1,34 @@
-.paragraf {
-    max-width: 900px;
-    color: palevioletred;
+
+body {
+    padding-left: 11em;
+    padding-right: 30em;
+    font-family: 'Times New Roman';
+    color: rgb(0,0,0);
+    line-height: 1.5;
+    background-color: #9be9ff }
+main {
+  background-color: #ffffff;
+  width: 1000px;
+  margin: 50px auto;
+  border: 20px solid; 
+  border-color: #ffffff; } 
+content {
+  padding: 6em 1em;
+  border: none;
+  margin: 70px;}
+h1 {
+    font-family: 'Gill Sans';
+    font-size: 30px;
+    color: rgb(0, 129, 180); }
+a:link {
+    color: blue }
+a:visited {
+    color: purple }
+p {
+    margin-bottom: 50px;
+    margin-right: 350px;
+  }
+h3 {
+    margin-bottom: 0px;
+    margin-right: 350px;
 }
